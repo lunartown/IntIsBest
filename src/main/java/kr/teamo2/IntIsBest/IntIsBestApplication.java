@@ -1,11 +1,11 @@
-package kr.teamo2.template;
+package kr.teamo2.intisbest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TemplateApplication {
+public class IntIsBestApplication {
     public static void main(String[] args) {
-        SpringApplication.run(TemplateApplication.class, args);
+        SpringApplication.run(IntIsBestApplication.class, args);
     }
 }

@@ -1,10 +1,10 @@
-package kr.teamo2.template;
+package kr.teamo2.intisbest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-public class TemplateApplicationTests {
+public class IntIsBestApplicationTests {
 
     @Test
     void contextLoads() {

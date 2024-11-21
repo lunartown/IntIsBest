@@ -5,7 +5,7 @@ services:
     build:
       dockerfile: DockerFile
       context: ./
-    container_name: template
+    container_name: intisbest
     restart: always
     ports:
       - '80:80'
